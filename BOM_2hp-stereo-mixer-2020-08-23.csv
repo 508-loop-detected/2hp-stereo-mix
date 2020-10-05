@@ -1,0 +1,25 @@
+ID,Name,Designator,Footprint,Quantity,source
+2,100pF,"C12,C13",C0805,2,
+3,MCP1703AT-5002E/CB,U7,SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR,1,https://www.mouser.com/ProductDetail/Microchip-Technology/MCP1703AT-5002E-CB
+4,HEADER-MALE-1.27_1X6,"P1,P2",HDR-TH_6P-P1.27-V,2,https://www.mouser.com/ProductDetail/855-M50-3530842
+5,TPA6111A2DR,U1,SOIC-8_L5.0-W4.0-P1.27-LS6.0-BL,1,https://www.mouser.com/ProductDetail/Texas-Instruments/TPA6111A2DR
+6,20k,"R13,R14, R7,R6",R0805,4,
+7,100R,"R2,R3",R0805,2,
+8,22k,"R8,R5",R0805,2,
+9,18k,"R1,R4",R0805,2,
+10,0.1uF,"C4,C9,C8",C0805,3,
+11,1uF,"C3,C1,C2, C11,C10",C0805,5,
+12,IDC Box 2.54mm 2X5P,P4,EURO_PWR_HEADER_LOCK,1,IDC Box 2.54mm 2X5P
+13,1N5817,"D2,D1",DO-41,2,1N5817
+15,220uF,"C6,C5",CAP-D5.0×F2.0,2,
+16,10uF,"C7, C14,C15",CAP-D5.0XF2.0,3,
+17,NE5532DR,U2,SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL,1,https://www.mouser.com/ProductDetail/Texas-Instruments/NE5532DR
+1,A100k 9mm T-18 pot,VR1,9MM_SNAP-IN_POT-2HP,1,https://www.thonk.co.uk/shop/alpha-9mm-pots-vertical-t18/
+2,THONKICONN,"U3,U5,U4",THONKICONN-TIGHT,3,
+3,HEADER-FEMALE-1.27_1X6,"P2,P1",HDR-TH_6P-P1.27-V,2,https://www.mouser.com/ProductDetail/855-M50-3030642
+4,100k,"R12,R11, R10,R9",R0805,4,
+5,THONKI-STEREO,U6,THONKICONN_GREEN_STEREO-TIGHT,1,
+6,A100k Dual 9mm T-18 pot,"VR2G$1, VR1G$1",DUAL_9MM_SNAP-IN_POT-2HP,2,https://www.thonk.co.uk/shop/alpha-9mm-pots-vertical-t18/
+,T-18 Micro Knobs,,,3,https://www.thonk.co.uk/shop/micro-knobs/
+24,aluminum spacer,,,1,https://www.aluminumspacers.com/as13-256-240
+25,2-56 screw,,,2,
